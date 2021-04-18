@@ -11,10 +11,10 @@ Hi, I'm Sandesh Deshmukh, a passionate sapien who writes computer programs and r
 
 #### Cheers!
  
-![My github stats](https://github-readme-stats.vercel.app/api?username=sandeshdeshmukh&show_icons=true&theme=dracula&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=sandeshdeshmukh1&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshdeshmukh&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshdeshmukh1&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://profile-counter.glitch.me/sandeshdeshmukh/count.svg)
+![visitors](https://profile-counter.glitch.me/sandeshdeshmukh1/count.svg)
 </br>
 🌻
